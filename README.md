@@ -1,1 +1,1 @@
-               CodeWars Kata Solutions C# (C Sharp)
+CodeWars Kata Solutions C# (C Sharp)
