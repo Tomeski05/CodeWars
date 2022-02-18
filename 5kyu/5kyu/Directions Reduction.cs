@@ -73,4 +73,4 @@ public class DirReduction
         return arr;
 
     }
-}
+}   
